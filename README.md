@@ -1,4 +1,4 @@
-cordova-splash-generator
+Django starter
 ========================
 
-Generates cordova/phonegap splash screen images for multiple platforms given a logo and background color/image.
+Generates django project -  -  - Forked from Ionic GitHub
